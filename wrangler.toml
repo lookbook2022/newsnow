@@ -1,7 +1,0 @@
-name = "newsnow" # 你的项目名称
-type = "javascript"
-
-[[d1_databases]]
-binding = "NEWSNOW_DB"
-database_name = "newsnow_db" # 替换为你创建的数据库名称 
-database_id = "4dfe7fe2-96ab-4d30-a72d-3bdb2f825e48" # 替换为你创建的数据库 ID
